@@ -2,8 +2,6 @@ require 'httparty'
 require 'nokogiri'
 
 
-
-
 def stock_info(question)
 	puts ""
 	puts question
@@ -80,6 +78,3 @@ puts "Current: $" + alib_current.content
 puts ""
 
 stock_info("Please enter a company name:")
-
-
-
