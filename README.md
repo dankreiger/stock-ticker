@@ -12,5 +12,3 @@ stock-ticker
 <br>
 <p> or add them to your <code>Gemfile</code> and run 
 <pre><code>bundle install</code></pre>
-
-<p>note: As of now it returns Alibaba as a sample default stock, but this will probably change.</p>
