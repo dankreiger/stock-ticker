@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/dankreiger/stock-ticker.svg?branch=master)](https://travis-ci.org/dankreiger/stock-ticker)
+
+
 stock-ticker
 ============
 
