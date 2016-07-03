@@ -4,6 +4,9 @@
 stock-ticker
 ============
 
+<a href="https://www.ruby-lang.org/"> <img  src="https://chocolatey.org/content/packageimages/ruby.devkit.4.5.2.20120101.png" /></a>
+<a href="http://www.nokogiri.org/"> <img  src="http://railscasts.com/static/episodes/stills/190-screen-scraping-with-nokogiri.png"/> </a>
+
 <p>Retrieves current stock quote information by company in terminal.<p>
 (source: <a href="http://www.reuters.com">Reuters</a>)
 
@@ -13,5 +16,5 @@ stock-ticker
 <code>gem install nokogiri</code>
 </pre>
 <br>
-<p> or add them to your <code>Gemfile</code> and run 
+<p> or add them to your <code>Gemfile</code> and run
 <pre><code>bundle install</code></pre>
