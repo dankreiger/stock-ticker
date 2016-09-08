@@ -1,6 +1,5 @@
 require "ticker/stockticker.rb"
 require "test/unit"
-require "pry"
 
 class StockTickerTest < Test::Unit::TestCase
 
